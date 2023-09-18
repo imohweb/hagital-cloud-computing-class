@@ -41,3 +41,12 @@ Check your messaging platform regularly for updates and announcements.
 
 ## Feedback:
 Provide constructive feedback to the instructor to help improve the online learning experience.
+
+
+# Other Class Assets
+
+## Link to Google Drive Containing Training Slides
+https://drive.google.com/drive/folders/1GGBj4HORTGU896mkLwOpsDIgBhP5vAVa?usp=sharing
+
+## Link to Google Drive for submission of class assignment/project
+https://drive.google.com/drive/folders/1WPcSoT9nEutaS0ptXIJOU1TZDat85akd?usp=sharing
