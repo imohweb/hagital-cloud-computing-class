@@ -97,3 +97,6 @@ https://phoenixnap.com/kb/how-to-install-terraform
 
 ## Install Visual Studio Code 
 https://code.visualstudio.com/docs/setup/windows
+
+## Install Visual Studio
+https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022
