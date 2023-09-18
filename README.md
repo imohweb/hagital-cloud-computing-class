@@ -1,4 +1,7 @@
 # Hagital-Cloud-Computing-Class
+## Introduction
+This is a high-level instructor-led virtual class designed to take participants from beginner to advanced level in Microsoft Azure.
+
 # Class Rules and Regulations
 
 ## Punctuality: 
