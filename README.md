@@ -1,4 +1,4 @@
-# Hagital-Cloud-Computing-Class
+# Hagital-Cloud-Computing-Sept-Class - ETUK
 ## Introduction
 This is a high-level instructor-led virtual class designed to take participants from beginner to advanced level in Microsoft Azure.
 
