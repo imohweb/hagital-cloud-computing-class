@@ -95,6 +95,12 @@ https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
 ## How to Install Terraform on Windows, Linux, and macOS
 https://phoenixnap.com/kb/how-to-install-terraform
 
+## Download and install Visual Studio 
+https://visualstudio.microsoft.com/downloads/
+
+## Download Ubuntu Desktop on your PC, but don't install it yet:
+https://ubuntu.com/download/desktop
+
 ## Install Visual Studio Code 
 https://code.visualstudio.com/docs/setup/windows
 
