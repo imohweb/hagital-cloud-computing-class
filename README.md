@@ -107,5 +107,5 @@ https://code.visualstudio.com/docs/setup/windows
 ## Install Visual Studio
 https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022
 
-## Starting learning about Linux Commands to prepare you for Linux Class
+## Start learning about Linux Commands to prepare you for Linux Class
 https://linuxcommandlibrary.com/
